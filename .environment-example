@@ -1,0 +1,5 @@
+# OpenRouter Configuration
+OPENROUTER_API_KEY=xxxx
+OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
+YOUR_SITE_URL=https://chat.website.com.np/
+YOUR_SITE_NAME=सन्देश
